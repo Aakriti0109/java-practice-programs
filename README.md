@@ -41,9 +41,6 @@ This repository contains programs covering topics such as operators, conditions,
 | Basic Calculator | Performs arithmetic operations |
 | Conditional Programs | Uses if-else and switch statements |
 | Loop Programs | Demonstrates iterative statements |
-
-*(Add or remove program names according to your actual files.)*
-
 ---
 
 ## Learning Objectives
